@@ -1,0 +1,15 @@
+1.	first github sing up
+2.	create repository
+3.	
+
+1. ssh key generate web site
+1.	$ ssh-keygen -t ed25519 -C "rabiulnewsinfo@gmail.com"
+
+
+
+Project push :
+1.	git init
+2.	git add .
+3.	git commit -m "first commit"
+4.	git remote add origin https://github.com/rabitech92/springBoot.git
+5.	git push -u -f origin main
